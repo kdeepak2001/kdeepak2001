@@ -66,18 +66,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdeepak2001&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdeepak2001&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kdeepak2001&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=900" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kdeepak2001&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 🚀 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeepak2001&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeepak2001&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
 </p>
-
----
 
 ## 💡 Quote I Believe In
 <p align="center"><i>“I always believe in the grace and guidance of my Guru; with their blessings, every step in learning and exploring becomes meaningful.”</i></p>
