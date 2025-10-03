@@ -70,13 +70,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kdeepak2001&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
-## 📊 My Contribution Journey  
+## 📊 Contribution Activity  
 
 <p align="center">
-  <!-- Professional Clean Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdeepak2001&theme=github-compact&hide_border=false&area=true&custom_title=🚀 Contribution Activity (Consistent & Growing)" 
-       alt="Deepak's GitHub Contribution Graph" 
-       width="95%"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kdeepak2001&theme=github-compact&area=true&hide_border=false&custom_title=🚀%20My%20GitHub%20Contribution%20Graph" 
+    alt="Deepak's GitHub Contribution Graph" 
+    width="100%" 
+  />
 </p>
 
 ## 💡 Quote I Believe In
