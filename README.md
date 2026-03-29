@@ -1,4 +1,4 @@
-'''<!-- GitHub Profile README -->
+<!-- GitHub Profile README -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hi+I+am+Kalava+Deepak+%F0%9F%91%8B;AI+Developer+%7C+GenAI+Engineer+%7C+Open+to+Opportunities;Built+CompliancePilot+%E2%80%94+Live+AI+Governance+Platform;EU+AI+Act+%7C+DPDP+Act+%7C+Responsible+AI+%7C+RegTech;Immediate+Joiner+%7C+Bangalore+India" alt="Typing Banner" />
