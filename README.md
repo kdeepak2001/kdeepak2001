@@ -180,7 +180,7 @@
 
 ## 🤝 Open To
 
-`AI Governance` `Responsible AI` `RegTech` `GenAI Engineering` `AI Product Management` `Data Science`
+`AI Engineer` `AI Prompt Engineer` `Ai Intern` `GenAI Engineering` `AI Product Management` `Data Science`
 
 📍 Bangalore, India | ⚡ Immediate Joiner | 🌏 Open to Relocation
 
@@ -195,17 +195,3 @@
   <a href="https://linkedin.com/in/kalava-deepak">💼 LinkedIn</a> ·
   <a href="mailto:kalavadeepak2001@gmail.com">📧 Email</a>
 </p>
-'''
-
-import os
-profile_path = os.path.join(os.path.expanduser('~'), 'Desktop', 'github repositories', 'kdeepak2001', 'README.md')
-os.makedirs(os.path.dirname(profile_path), exist_ok=True)
-f = open('profile_README.md', 'w', encoding='utf-8')
-f.write(readme)
-f.close()
-print('Done - file saved as profile_README.md')
-```
-
-Save and close. Run:
-```
-python fix_profile_readme.py
